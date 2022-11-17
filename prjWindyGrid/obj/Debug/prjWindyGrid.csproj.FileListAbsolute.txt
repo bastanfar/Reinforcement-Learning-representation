@@ -1,0 +1,2 @@
+F:\C#-Projects\prjWindyGrid\prjWindyGrid\obj\Debug\WindyGrid.exe
+F:\C#-Projects\prjWindyGrid\prjWindyGrid\obj\Debug\WindyGrid.pdb
